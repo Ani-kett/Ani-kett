@@ -5,7 +5,7 @@ I’m **Aniket**, a graphic designer and software engineer based in India. I lik
 **These days I’m focused on:**
 - React, TypeScript, Tailwind
 - UI design with subtle motion
-- Small, thoughtful projects with polish
+- Small clean projects
 
 ---
 
